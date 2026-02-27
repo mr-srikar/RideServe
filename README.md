@@ -120,13 +120,3 @@ RideServe demonstrates strong expertise in:
 
 This project reflects the ability to build enterprise-level transportation platforms capable of handling real-time bookings and high-performance data processing.
 
----
-
-## 📌 Author
-
-**Your Name Here**  
-GitHub: https://github.com/yourusername  
-
----
-
-⭐ If you like this project, consider giving it a star!
